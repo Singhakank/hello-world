@@ -36,7 +36,7 @@
   </div>
 
    <h1> Thankyou, I am very happy after deploying my first code to tomcat </h1>
-   <h2> i m gaining the confidence gradually  </h2>
+   <h2> i am loving this course  </h2>
 
   
 </form>
